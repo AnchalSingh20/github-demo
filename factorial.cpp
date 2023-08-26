@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n, factorial = 1;
+    int m, factorial = 1;
 
     cout << "Enter integer: ";
     cin >> n;
