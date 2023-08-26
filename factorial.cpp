@@ -7,7 +7,7 @@ int main() {
     cout << "Enter a number: ";
     cin >> n;
     if(n<0)
-   { cout<< "invalid input";
+   { cout<< "wrong input";
     return 1; }
 
     for(int i = 1; i <= n; ++i) {
